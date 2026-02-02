@@ -4,21 +4,21 @@
 
 ---
 
-# Getting Started
+# <i class="fa-regular fa-sun"></i> Getting Started
 - [Contacting the Luddy Engagement Office](contact.md)
 - [Establishing a New Student Group](new-group.md)
 - [Registering your Student Organization as an USO](uso.md)
 
 ---
 
-# Funding & Finances
+# <i class="fa-regular fa-sack-dollar"></i> Funding & Finances
 - [Budgets and Submitting Budgets](budgets.md)
 - [P-Card](pcard.md)
 - [Student Organizations Funding](funding.md)
 
 ---
 
-# Operations
+# <i class="fa-regular fa-circle-check"></i> Operations
 - [Annual To-Do’s](annual-todos.md)
 - [Creating an Organization Email](organizational-email.md)
 - [Establishing Internal Communication](internal-comm.md)
@@ -29,14 +29,14 @@
 
 ---
 
-# Events
+# <i class="fa-regular fa-calendar"></i> Events
 - [Optional Activities](optional-activities.md)
 - [Reserving Spaces](spaces.md)
 - [Using the IU Fleet Service](fleet.md)
 
 ---
 
-# Outreach
+# <i class="fa-solid fa-people-pulling"></i> Outreach
 - [Class Shoutouts](class-shoutouts.md)
 - [Developing an Online Presence](online-presence.md)
 - [Flyers](flyers.md)
@@ -46,6 +46,6 @@
 
 ---
 
-# Additional Info
+# <i class="fa-regular fa-folder-plus"></i> Additional Info
 - [Additional Tips for Running a Successful Organization](additionalTips.md)
 - [Starting the Process of Reviving a Student Group](revive.md)
