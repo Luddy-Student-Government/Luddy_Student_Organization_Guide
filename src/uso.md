@@ -4,7 +4,7 @@ Registering your student group as a University Student Organization (USO) with I
  
 
 ### The requirements for initially registering as an USO are as follows:
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Once your organization meets all the above requirements, [contact Tiana Iruoje or Courtland Crenshaw](contact.md) to approve and complete the USO registration form.  
 #### Register on BeINvolved 
   - BeINvolved is an online service that allows student groups/organizations to maintain a profile that is easily accessible by the Indiana University network. Here, your organization can post events and information as well as utilize discussion boards and group messaging. This resource also allows you to showcase what you are doing as an organization by posting your activities, campus involvement, collaborations, etc. beINvolved also organizes events, organizations, and articles for other groups to view and attend on campus. 
