@@ -10,7 +10,7 @@ collaborative and allow all members to post. Just make sure to keep it up to dat
 
 ## Take Full Advantage of All Funding Opportunities
 This will allow you to host more
-events, create some savings in your SOA account for a rainy day, travel, and collaborate with other organizations.
+events, create some savings in your account for a rainy day, travel, and collaborate with other organizations.
 
 
 ## Sell swag! 

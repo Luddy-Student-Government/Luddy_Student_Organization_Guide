@@ -1,4 +1,5 @@
 # Website
+If you would like to purchase digital subscriptions like a domain name or service subscription please contact [lsg@iu.edu](mailto:lsg@iu.edu) for further instruction. 
 
 ## [WordPress](https://wordpress.com/)
 WordPress is a drag-and-drop website creation service that focuses on

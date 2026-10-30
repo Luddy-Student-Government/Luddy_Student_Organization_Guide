@@ -1,11 +1,18 @@
 # Flyers
-Handing out flyers to classes can be a great way to give individuals a physical reminder about your shoutout after class time ends. The flyer should reiterate the same information said in your [shoutout](class-shoutouts.md) and/or provide a link to a page that has
-that information.
+
+## Event Flyers and TV Posters
+- **Required:** Every [P-Card request](pcard.md) must include a flyer for your event. It will be put up in the Community Center to advertise your event.
+- **Required for Community Center events:** If your event is in the Community Center, you must also submit a TV-format version of the poster.
+- **Optional but highly encouraged:** Submit a TV poster for any event so it can be shown on the Luddy TVs during the week before your event. Reach out to [marganey@iu.edu](mailto:marganey@iu.edu) to get your poster put up on the TVs.
+
+## Handing Out Flyers
+Handing out flyers to classes can be a great way to give individuals a physical reminder about your class shoutout after class time ends. The flyer should reiterate the same information said in your shoutout and/or provide a link to a page that has that information.
 
 Please note that Self-Governed Student Organizations (SGSOs) are not permitted to use
 Indiana University’s trademarks, symbols, logos, mottoes, or depictions of campus
 buildings and landmarks. There is an official SGSO logo available [here](https://studentlife.indiana.edu/get-involved/student-organizations/manageorganization/promote-organization.html).
 
+## Design Tools
 A few tools you can use to create flyers are listed below:
 - Canva
   - Canva is an intuitive graphic design tool available online. It requires

@@ -9,7 +9,7 @@
 
 #### Courtland Crenshaw <small>*Assistant Director of Student Engagement and Success*</small>  
   * Email: [cccrensh@iu.edu](mailto:cccrensh@iu.edu)    
-  * Phone: [(812) 856-3636](tel:+1-812-856-3696)  
+  * Phone: [(812) 856-1888](tel:+1-812-856-1888)  
   * Office: Luddy 1124  
   * [Staff Profile](https://www.linkedin.com/in/courtland-crenshaw)
 
@@ -21,10 +21,20 @@
 #### Mary Ganey <small>*Graduate Assistant to the Office of Student Engagement and Success*</small>  
   * Email: [marganey@iu.edu](mailto:marganey@iu.edu)    
   * Office: Desk in Undergraduate Advising Suite
-  * [Staff Profile](www.linkedin.com/in/mary-ganey)  
-
-#### Reece Needham <small>*Graduate Assistant to the Luddy Living Learning Center*</small>  
-  * Email: [reeneedh@iu.edu](mailto:reeneedh@iu.edu)    
-  * Office: Teter Quadrangle
-  * [Staff Profile](https://www.linkedin.com/in/reeceneedham/)  
+  * [Staff Profile](https://www.linkedin.com/in/mary-ganey)   
   
+
+### Luddy Student Government (LSG)
+  * Email: [lsg@iu.edu](mailto:lsg@iu.edu). For a faster response, cc Bella at [betsanta@iu.edu](mailto:betsanta@iu.edu).
+  * Treasurer (Fall 2026): Yuti Dhaneshwar, [ydpatil@iu.edu](mailto:ydpatil@iu.edu)
+
+### Other IU Contacts
+#### McKenna Myers <small>*Senior Assistant Director, Student Organizations; IU Funding Board Advisor*</small>  
+  * Email: [mckmyers@iu.edu](mailto:mckmyers@iu.edu)  
+  * Phone: [(812) 855-6315](tel:+1-812-855-6315)  
+  * For help reserving campus space, the IU Funding Board, and BeInvolved
+
+#### IU Procurement Services - Supplier Data Management  
+  * Email: [helpmeiu@iu.edu](mailto:helpmeiu@iu.edu)  
+  * Phone: [(812) 855-6101](tel:+1-812-855-6101) (7:30am-4:30pm ET)  
+  * For help with [BUY.IU supplier registration](sgso.md)
