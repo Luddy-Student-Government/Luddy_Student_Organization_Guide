@@ -1,9 +1,9 @@
 # Flyers
 
 ## Event Flyers and TV Posters
-- **Required:** Every [P-Card request](pcard.md) must include a flyer for your event. It will be put up in the Community Center to advertise your event.
+- **Required:** Every [P-Card request](pcard.md) must include a flyer for your event. It will be put up in the Community Center to advertise your event. Submit your poster through the [LSG Form](https://forms.cloud.microsoft/r/SiihyFkYn4) by selecting **Involved in hosting events**, then **Add an Event to Luddy Newsletter/TVs**.
 - **Required for Community Center events:** If your event is in the Community Center, you must also submit a TV-format version of the poster.
-- **Optional but highly encouraged:** Submit a TV poster for any event so it can be shown on the Luddy TVs during the week before your event. Reach out to [marganey@iu.edu](mailto:marganey@iu.edu) to get your poster put up on the TVs.
+- **Optional but highly encouraged:** Submit a TV poster for any event so it can be shown on the Luddy TVs during the week before your event. Use the same [LSG Form](https://forms.cloud.microsoft/r/SiihyFkYn4) option to get your poster put up on the TVs.
 
 ## Handing Out Flyers
 Handing out flyers to classes can be a great way to give individuals a physical reminder about your class shoutout after class time ends. The flyer should reiterate the same information said in your shoutout and/or provide a link to a page that has that information.

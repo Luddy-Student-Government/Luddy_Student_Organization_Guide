@@ -1,2 +1,0 @@
-# Developing an Online Presence
-It is recommended that all groups have at least one central page online in addition to their beINvolved page updated with all current information and events. This can take the form of one or more social media accounts, a website, or both. Social media accounts are typically quicker to set up and provide enough functionality for brand new student groups, but websites can be a great option for more established student groups.

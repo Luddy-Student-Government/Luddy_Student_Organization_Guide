@@ -5,7 +5,7 @@
 #### Dr. Kevin Reeves <small>*Assistant Dean for Engagement and Community*</small>  
   * Email: [kevreev@iu.edu](mailto:kevreev@iu.edu)    
   * Office: Luddy 3132  
-  * [Staff Profile](https://luddy.indiana.edu/contact/profile/index.html?Tiana_Iruoje)  
+  * [Staff Profile](https://luddy.iu.edu/people/reeves-kevin.html)  
 
 #### Courtland Crenshaw <small>*Assistant Director of Student Engagement and Success*</small>  
   * Email: [cccrensh@iu.edu](mailto:cccrensh@iu.edu)    
@@ -29,10 +29,6 @@
   * Treasurer (Fall 2026): Yuti Dhaneshwar, [ydpatil@iu.edu](mailto:ydpatil@iu.edu)
 
 ### Other IU Contacts
-#### McKenna Myers <small>*Senior Assistant Director, Student Organizations; IU Funding Board Advisor*</small>  
-  * Email: [mckmyers@iu.edu](mailto:mckmyers@iu.edu)  
-  * Phone: [(812) 855-6315](tel:+1-812-855-6315)  
-  * For help reserving campus space, the IU Funding Board, and BeInvolved
 
 #### IU Procurement Services - Supplier Data Management  
   * Email: [helpmeiu@iu.edu](mailto:helpmeiu@iu.edu)  

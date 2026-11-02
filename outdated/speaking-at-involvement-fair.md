@@ -1,2 +1,0 @@
-# Speaking at Luddy Student Engagement Involvement Fair
-An Involvement fair for incoming Luddy students is typically held the week before classes start each semester. At the fair, incoming students can learn about current student orgs in Luddy. At least one member on the leadership team of each student group is encouraged to come in and speak directly to new students and answer questions about their group.

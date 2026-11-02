@@ -29,7 +29,7 @@ To help ensure that we can continue offering the Community Center space:
 - The Cleanup Coordinator should do a final walkthrough before everyone leaves to ensure the space is clean and ready for the next group.
 - Everyone attending is expected to assist with cleanup as needed.
 
-Do not take items from the Clubs & Orgs cabinet that aren't yours. If you are unsure, ask.
+Do not take items from the Clubs & Orgs cabinet that aren't yours. If you are unsure, [ask](contact.md)
 
 ## Classrooms, the IMU, and Other Campus Spaces
 As of Fall 2026, space outside of Luddy is requested through your organization's Event Tool on [BeInvolved](https://beinvolved.indiana.edu/):

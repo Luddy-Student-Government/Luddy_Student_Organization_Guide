@@ -1,12 +1,9 @@
 # Self-Governed Student Organizations (SGSO) and BUY.IU
 
-As of Fall 2026, Luddy organizations are transitioning from University Student Organizations (USOs) to Self-Governed Student Organizations (SGSOs). Information about the transition is posted in the [Student Org Teams](student-org-teams.md).
+As of Fall 2026, some Luddy organizations are transitioning from University Student Organizations (USOs) to Self-Governed Student Organizations (SGSOs). Information about the transition is posted in the [Student Org Teams](student-org-teams.md).
 
 ## Registering as a Supplier in BUY.IU
 Your organization must be registered as a supplier in BUY.IU to receive any leftover Luddy funds. This is the final step of the transition. **Payment cannot be made until your registration is submitted.**
-
-> [!WARNING]
-> Only provide tax and payment information for the SGSO you are registering. **Do not enter personal tax or payment information.** If you are not an SGSO, stop and notify [helpmeiu@iu.edu](mailto:helpmeiu@iu.edu).
 
 ### Before You Start
 You will need:

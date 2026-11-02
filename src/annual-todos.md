@@ -1,16 +1,19 @@
 # Annual To-Do's
 
 ## Submitting Budgets
-All student Orgs need to submit their budgets semesterly for approval to the office of student engagement.
+All student Orgs need to submit their [budgets](budgets.md) semesterly for approval to the office of student engagement.
 
 ## Updating beINvolved and Member Roaster
 You need to update beINvolved with the current board and board members.
+
+## Updating your roster with Student Government
+This information can be submitted within the [LSG Teams](student-org-teams.md) in the Clubs and Orgs channel. Click on the Shared tab and navigate to the Student Roster folder. From there you should find a template and can upload updated contact information for your club. 
 
 
 ## Student Involvement Fairs
 All groups must attend at least one (both recommended) student involvement fair. IU hosts one fair in August and one in January of each academic year. Information about each semester’s involvement fair is [typically posted on BeInvolved a few months in advance](https://beinvolved.indiana.edu/events)
 
-Students are also encouraged to set up a table each year at the ILS Fall Orientation as well as Luddy Red carpet days to promote their organization/group to incoming students.
+Students are also encouraged to set up a table each year at the Fall Orientation as well as Luddy Red carpet days to promote their organization/group to incoming students.
 
 ## Elections
 While there are no formal requirements for student group elections, it is recommended that your student group hold elections for all executive board positions (President, Vice President, Secretary, Treasurer, etc.) once per academic year.  

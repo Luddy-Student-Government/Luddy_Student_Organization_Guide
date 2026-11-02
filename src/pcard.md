@@ -10,34 +10,33 @@ Each user must complete P-Card training before use. The Treasurer is the student
 
 ## Requesting a P-Card 
 Your organization's [budget](budgets.md) must be approved before P-Card requests can be processed.
-- Submit P-Card requests at least **three weeks** before you need the card.
-- The P-Card request form is available at the top of the Clubs and Organizations channel in the [Student Org Teams](student-org-teams.md), or through the Luddy Student Government SharePoint page.
-- Every request **must** include a flyer for your event. If your event is in the Community Center, you must also include a TV-format poster. See [Flyers](flyers.md#event-flyers-and-tv-posters).
+- Submit P-Card requests at least **two weeks** before you need the card.
+- Submit your request through the [P-Card request form](https://forms.cloud.microsoft/r/6BBWNe8jec).
+- Every request **must** include a flyer for your event, submitted through the [LSG Form](https://forms.cloud.microsoft/r/SiihyFkYn4). If your event is in the Community Center, you must also include a TV-format poster. See [Flyers](flyers.md#event-flyers-and-tv-posters).
 - Requests will not be approved without [tracked attendance](attendance.md).
 
 ## After submitting a P-Card request: 
 A member of the Office of Student Engagement and Success will contact you to either:
 - Confirm your request and next steps.  
-- Deny your request based on incorrect fields, structure, or failure to follow guidelines 
+- Deny your request based on incorrect fields, structure, or failure to follow guidelines.
 
 ## Purchasing Guidelines 
 - P-Cards are for business use only. No personal purchases.
 - Buy from approved, tax-exempt vendors when possible. Approved vendors are listed on [Buy IU](https://one.iu.edu/task/iu/buyiu). 
-- If purchasing in-store, online, or by phone, ensure no sales tax is added. The P-Card is tax-exempt (if needed, obtain our tax-exempt information from [Jan Questelles](mailto:jaquest@iu.edu)).
 
 ## Receipts 
 Submit receipts **within 24 hours** of purchase, either by emailing [lses@iu.edu](mailto:lses@iu.edu) or by dropping physical copies in the red box outside Jan's office (Luddy 1010).
 
 All receipts must be itemized and include: 
 - Each item purchased 
+- Date
 - Tip amount (if applicable) 
 - Final payment total 
 
-You must also track attendance at the event the purchase was for. See [Tracking Event Attendance](attendance.md).
+You must also submit attendance for the event the purchase was for. See [Tracking Event Attendance](attendance.md).
 
 ## Reconciliation & Record-Keeping 
-- All receipts and documentation must be reconciled within 30 days of the purchase date. 
-- On the 4th Monday of each month, the LSG Treasurer and Jan will meet to review all expenses and transactions for accuracy. 
+- The LSG Treasurer will reach out quarterly for your updated budget to make sure our records are correct. 
 - Treasurers must maintain a detailed spreadsheet of all organizational transactions and current balances. Spreadsheet columns should include: 
   - Receipt-to-transaction match 
   - Reason for purchase 
